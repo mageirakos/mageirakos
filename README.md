@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 📫 Reach me on: b.mageirakos@gmail.com
 
 <!--
+- 📫 Reach me on: b.mageirakos@gmail.com
 **mageirakos/mageirakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
